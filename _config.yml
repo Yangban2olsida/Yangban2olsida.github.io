@@ -1,5 +1,5 @@
 # Site settings
-title: Thomas Zühlke
+title: 이창엽
 description: 'Business Card Page'
 url: 'http://thomas.zuehlke.family'
 baseurl: ''
@@ -9,8 +9,8 @@ google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
 author:
-  name: 'Thomas Zühlke'
-  email: info@thomas-zuehlke.de
+  name: '이창엽'
+  email: didlwl@naver.com
   twitter_username: thomzuehlke
 #  facebook_username: joshgerdes
   github_username:  tzuehlke
