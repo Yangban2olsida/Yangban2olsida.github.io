@@ -19,7 +19,7 @@
   repo: scripts
   img: https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png
   desc: 카레만 전문적으로 다루는 리뷰 사이트, 커리에브리웨어입니다. 카레전문점에서 파는 카레가 아닌 김밥천국이나 김가네에서 파는 카레일지라도 카레가 맛있는 집이 있습니다. 카레덕후들이 숨은 카레의 명가를 리뷰할수 있는 것이 특징입니다.(아직 진행 및 구상중입니다.)
-
+ 
 #- name: Face API
 #  gh_user: ArvatoSystems
 #  repo: FaceApiWPF
