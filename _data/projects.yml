@@ -2,22 +2,22 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: CodingPeople
-  gh_user: lcy
-  repo: DebugContainer
+  gh_user: swjk78
+  repo: codingpeople
 #  img: https://user-images.githubusercontent.com/32843441/62822286-71724400-bb81-11e9-9c0b-59fe58dd39a8.png
   img: '/images/project1.png'
   desc: 자신이 만든 코드의 문제를 찾기위해서, 문제의 코드를 올리고 다양한 지식을 공유하는 코드 커뮤니티 입니다. 5명의 구성원으로 Eclipse 기반에서 작업했습니다.
 
 - name: Fun_ding
-  gh_user: lcy
-  repo: jekyll-uno-timeline
-  img: https://raw.githubusercontent.com/tzuehlke/jekyll-uno-timeline/master/screenshot-overview.png
+  gh_user: AnJinHyeong
+  repo: FinalProject
+  img: '/images/project2.png'
   desc: 크리에이터들이 프로젝트를 업로드하고, 회원들이 그 프로젝트를 직접 후원하는 펀딩 사이트입니다. 일반적인 펀딩 사이트에서 더 나아가 직접 회원들이 원하는 펀딩을 크리에이터들에게 요구할수있는 것에 차별성을 두었습니다. 
 
 - name: CurryEverywhere
-  gh_user: lcy
-  repo: scripts
-  img: https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png
+  gh_user: Yangban2olsida
+  repo: SpringBootTest
+  img: '/images/project3.png'
   desc: 카레만 전문적으로 다루는 리뷰 사이트, 커리에브리웨어입니다. 카레전문점에서 파는 카레가 아닌 김밥천국이나 김가네에서 파는 카레일지라도 카레가 맛있는 집이 있습니다. 카레덕후들이 숨은 카레의 명가를 리뷰할수 있는 것이 특징입니다.(아직 진행 및 구상중입니다.)
  
 #- name: Face API
