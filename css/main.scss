@@ -4,7 +4,7 @@
 @import "tables";
 @import "monokai";
 @import "timeline";
-font-family: 'NanumSquare', sans-serif;
+@import url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 
 /* Modifications */
 pre.highlight,
